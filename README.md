@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0dayRadical.0dayRadical&"  />
-</div>
-
 ###
 
 <div align="center">
